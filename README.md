@@ -1,6 +1,6 @@
 ### Welcome!
 
-<h4>Date</h4><br>
+<h4>Date</h4>
 
 August 14-15, 2021 (Exact time to be announced)
 
