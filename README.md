@@ -2,7 +2,7 @@
 
 <h4>Date</h4>
 
-August 14-15, 2021 (Exact time to be announced)
+12-3pm EDT, August 14, 2021 (Saturday)
 
 <h4>Presenters</h4>
 
