@@ -19,7 +19,8 @@ inference techniques designed for independent and identically distributed (i.i.d
 
 Stay tuned!
 
-<h4>References>
+<h4>References</h4>
+
 * Christakis & Fowler. The Spread of Obesity in a Large Social Network Over 32 Years. New England Journal of Medicine. 2007.
 * Lee & Ogburn. Network Dependence Can Lead to Spurious Associations and Invalid Inference. Journal of American Statistical Association. 2020.
 * Bail, Argyle, Brown, Bumpus, Chen, Hunzaker, Lee, Mann, Merhout, Volfovsky. Exposure to opposing views on social media can increase political polarization. PNAS 2018.
