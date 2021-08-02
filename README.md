@@ -17,7 +17,7 @@ inference techniques designed for independent and identically distributed (i.i.d
 
 <h4>Materials</h4>
 
-Stay tuned!
+A pdf of the presentation can be found <a href="KDD2021-Tutorial.pdf">here.</a>
 
 <h4>References</h4>
 
