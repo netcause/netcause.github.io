@@ -2,7 +2,7 @@
 
 <h4>Date</h4>
 
-12-3pm EDT, August 14, 2021 (Saturday)
+1-4:30pm EDT, February 23, 2022 (Wednesday)
 
 <h4>Presenters</h4>
 
@@ -17,7 +17,7 @@ inference techniques designed for independent and identically distributed (i.i.d
 
 <h4>Materials</h4>
 
-A pdf of the presentation can be found <a href="KDD2021-Tutorial.pdf">here.</a>
+A pdf of the presentation from the tutorial at KDD 2021 can be found <a href="KDD2021-Tutorial.pdf">here.</a>
 
 <h4>References</h4>
 
