@@ -65,5 +65,6 @@ A pdf of the presentation from the tutorial at KDD 2021 can be found <a href="KD
 * Bhattacharya, Malinsky, and Shpitser. Causal inference under interference and network uncertainty. UAI 2019.
 * Spirtes, Glymour, Scheines. Causation, Prediction, and Search. MIT Press, 1993.
 * Lee and Hanovar. On Learning Causal Models from Relational Data. AAAI 2016.
+* Ahsan, Arbour, Zheleva. Relational Causal Models with Cycles: Representation and Reasoning. CLeaR 2022.
 
 
